@@ -1,0 +1,20 @@
+{
+    "vnsimha": {
+        "password": "$2b$12$Ls90RM1PiDw.CrIflsYjHeiQQrlTzC7e8/jJUT6aA6BcPlBaK8pOS",
+        "preferences": {
+            "Sports": [
+                "cricket",
+                "football"
+            ],
+            "Business": [
+                "stock market"
+            ],
+            "Technology": [
+                "smart phones"
+            ],
+            "Education": [
+                "higher studies"
+            ]
+        }
+    }
+}

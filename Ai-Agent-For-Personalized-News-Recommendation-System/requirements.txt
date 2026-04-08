@@ -1,0 +1,4 @@
+gradio
+bcrypt
+sentence-transformers
+requests
