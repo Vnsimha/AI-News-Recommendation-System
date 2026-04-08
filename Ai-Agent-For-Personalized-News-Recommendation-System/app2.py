@@ -1,5 +1,5 @@
 
-API_KEY = "963a1e5eded243a39875e555567a565e"
+API_KEY = "YOUR_APIKEY"
 import gradio as gr
 import bcrypt
 import json
@@ -10,10 +10,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
 # Load SentenceTransformer model
-model = SentenceTransformer('all-mpnet-base-v2')
+model = SentenceTransformer('YOUR_MODEL')
 
 # Constants
-# API_KEY = "6da9f21c78fa4034811c25e29543eea9"
 USER_FILE = "users.json"
 category_choices = ["Sports", "Politics", "Business", "Technology", "Entertainment", "Health", "Science", "Education", "Environment"]
 
